@@ -78,7 +78,6 @@ function writeToFile(fileName, data) {
         })
     });
 }
-// function call to initialize program
 init()
 .then(data => {
     console.log("README created! Check 'readme' folder");
