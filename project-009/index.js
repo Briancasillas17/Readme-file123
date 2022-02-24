@@ -54,8 +54,8 @@ function init() {
         },
         {
             type: "input",
-            message: "Including yourself, please list out all contributors",
-            name: "contributer"
+            message: "Including yourself, please list out all contribution",
+            name: "Contribution"
         },
         {
             type: "input",
@@ -73,7 +73,7 @@ function writeToFile(fileName, data) {
             }
             resolve({
                 ok: true,
-                message: "README created! Check 'dist' folder."
+                message: "README created! Check 'readme' folder."
             })
         })
     });

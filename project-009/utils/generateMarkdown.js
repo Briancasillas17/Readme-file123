@@ -7,6 +7,18 @@ function generateMarkdown(data) {
 ## ${data.title} 
 
 \n![${data.license}](${licenseIcon}) 
+
+### Description
+ *${data.description}*
+  
+### Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Contributors](#contributors)
+- [Details](#details)
+
 ### Installation
 Packages required to run this program are: ${data.installation}
 
@@ -16,21 +28,10 @@ Examples of how to use this program: ${data.usage}
 ### License
 ${data.license}
 
- 
-  
-### Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Tests](#tests)
-- [Contributors](#contributors)
-- [Details](#details)
-*${data.description}*
+### Tests
+To test, run the following command: ${data.tests}
 
-### Testing
-To test, run the following command: ${data.testing}
-
-### Contribution
+### Contributors
 ${data.Contribution}
 
 ### Contact
