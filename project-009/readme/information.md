@@ -34,7 +34,7 @@ Brian Casillas
 
 ![Badge](https://img.shields.io/badge/Github-brian casillas-4cbbb9) 
 
-![Profile Image](https://github.com/brian casillas.png?size=50)
+![Profile Image](https://github.com/briancasillas.png?size=50)
 
 View the project in GitHub at: https://github.com/Briancasillas17/project-009
 
